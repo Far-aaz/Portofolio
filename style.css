@@ -4,7 +4,9 @@ body {
     background-color: white; /* putih polos */
     font-family: "Poppins", sans-serif;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 /* navbar */
 nav {
     background-color: white; /* ganti abu jadi putih */
